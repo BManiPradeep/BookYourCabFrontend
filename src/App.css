@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  text-align: center;
+  background-color: #282c34;
+  width: 100vw; /* Occupy 100% width of the viewport */
+  height: 100vh; /* Occupy 100% height of the viewport */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
